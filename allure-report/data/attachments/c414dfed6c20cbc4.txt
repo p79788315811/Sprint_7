@@ -1,0 +1,2 @@
+status_code: 200
+{"order":{"id":735647,"firstName":"Naruto","lastName":"Uchiha","address":"Konoha, 142 apt.","metroStation":"4","phone":"+7 800 355 35 35","rentTime":5,"deliveryDate":"2026-10-30T00:00:00.000Z","track":337862,"color":["BLACK"],"comment":"Saske, come back to Konoha","cancelled":false,"finished":false,"inDelivery":false,"createdAt":"2026-10-29T11:57:25.874Z","updatedAt":"2026-10-29T11:57:25.874Z","status":0}}
